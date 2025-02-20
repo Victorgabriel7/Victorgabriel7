@@ -1,6 +1,15 @@
 ## Olá! Eu sou Victor Gabriel 😎
-<p><b>Desenvolvedor Full Stack</b></p>
-<p>Entrei na área da programação por gostar do desenvolvimento web e ser apaixonado por tecnologia, adoro desenvolver interfaces e solucionar problemas. Sou proativo e comunicativo, tenho uma rápida adaptação e com fácil aprendizagem✨.<p>
+<b>💻 Desenvolvedor Full Stack</b>
+Apaixonado por transformar ideias em soluções digitais eficientes
+<p> 🔹 Especializado em páginas de vendas e websites modernos.
+<br>🔹 Sempre em busca de novas tecnologias e melhores práticas de desenvolvimento.
+<br>🔹 Foco em performance, responsividade e design funcional.</br>
+
+🚀 Habilidades principais:
+
+🔹HTML, CSS, JavaScript, C#, SQL
+<br>🔹Criação de sites responsivos e otimizados
+<br>🔹Integração com APIs e soluções personalizadas<p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
